@@ -1,5 +1,7 @@
 {
     "recommendations": [
+        "anthropic.claude-code",
+        "github.copilot-chat",
         "adpyke.codesnap",
         "d-biehl.robotcode",
         "github.remotehub",
